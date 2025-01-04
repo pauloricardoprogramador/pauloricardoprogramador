@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">Me chamo Paulo Ricardo, tenho 21 anos e sou natural do Maranhão. Concluí o ensino médio no Instituto Federal do Maranhão, com o curso técnico em informática. Além de programador, também exploro o mundo do design de interfaces (UI Design) nas horas vagas, utilizando o Figma para criar layouts que unem estética e usabilidade. Atualmente, estou em busca do meu primeiro emprego como desenvolvedor, pronto para aprender e contribuir com minhas habilidades.</p>
+<p align="left">Olá, sou Paulo Ricardo, tenho 21 anos e sou natural do Maranhão. Concluí o ensino médio no Instituto Federal do Maranhão, com formação técnica em informática, onde dei meus primeiros passos no mundo da tecnologia. Inicialmente, meu sonho era ser advogado, e até cursei Direito por seis meses. Durante esse período, trabalhei como vistoriador veicular, mas decidi abdicar dessa trajetória para me dedicar integralmente à programação.
+
+Além de programador, também exploro o universo do UI/UX Design nas horas vagas, utilizando o Figma para criar interfaces intuitivas e funcionais. Minha experiência como designer em uma gráfica trouxe uma base criativa que aplico no desenvolvimento de interfaces e no aperfeiçoamento de soluções digitais.</p>
 
 ###
 
