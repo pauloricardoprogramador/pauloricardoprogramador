@@ -1,6 +1,6 @@
 <h1 align="left">💻 Paulo Ricardo</h1> 
 
-**`Desenvolvedor FullStack, focado em Front-end`**
+**`Desenvolvedor Front-end`**
 
 ###
 
