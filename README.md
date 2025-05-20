@@ -6,7 +6,7 @@
 
 <p align="left">Olá, sou Paulo Ricardo, tenho 21 anos e sou natural do Maranhão. Concluí o ensino médio no Instituto Federal do Maranhão, com formação técnica em informática, onde dei meus primeiros passos no mundo da tecnologia. Inicialmente, meu sonho era ser advogado, e até cursei Direito por seis meses. Durante esse período, trabalhei como vistoriador veicular, mas decidi abdicar dessa trajetória para me dedicar integralmente à programação.
 
-Além de programador, também exploro o universo do UI/UX Design nas horas vagas, utilizando o Figma para criar interfaces intuitivas e funcionais. Atualmente sou desenvolvedor front-end da Gol de placa MA, uma plataforma que realiza serviços para gestão de campeonatos esportivos, sendo reponsável por planejar, estruturar e realizar competições atendendo aos requisitos e padrões das boas práticas nacionais.</p>
+Além de programador, também exploro o universo do UI/UX Design nas horas vagas, utilizando o Figma para criar interfaces intuitivas e funcionais. Atualmente sou desenvolvedor front-end da Fauves Entretenimento, uma plataforma completa para criação, gestão e venda de ingressos para eventos ao vivo.</p>
 
 ###
 
